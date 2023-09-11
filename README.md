@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 👋, I'm Khant Naing Set, I'm just a guy who into the backend, iot and cloud stuffs.
 
 ## Thing I am into ##
-[https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white]
+![alt text](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
