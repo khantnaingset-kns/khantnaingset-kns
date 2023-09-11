@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 ![alt text](https://github-readme-stats.vercel.app/api?username=khantnaingset-kns&theme=blue-green)
 
+![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=khantnaingset-kns&theme=blue-green)
+
 
 ## 🌱 I’m currently learning DevOps and Platform Engineering 🌱 ##
 
